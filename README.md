@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##My name is Tania Pashkevich.
+## My name is Tania Pashkevich.
 I am 20 years old. And I'm a begginer Front-end developer.
 
 ### Contact me:
