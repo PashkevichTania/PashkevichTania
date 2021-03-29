@@ -15,7 +15,7 @@ I am 20 years old. And I'm a begginer Front-end developer.
 * ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 * ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
-
+### My CV: https://pashkevichtania.github.io/CV/
 <!--
 **PashkevichTania/PashkevichTania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
