@@ -16,6 +16,13 @@ I am 20 years old. And I'm a begginer Front-end developer.
 * ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
 ### My CV: https://pashkevichtania.github.io/CV/
+
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PashkevichTania&show_icons=true&count_private=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PashkevichTania&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+
 <!--
 **PashkevichTania/PashkevichTania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
