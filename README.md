@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My name is Tania Pashkevich.
-And I'm a begginer Front-end developer.
+And I'm a Front-end developer.
 
 ### Contact me:
 * [pashkevichtania2004@gmail.com](https://pashkevichtania2004@gmail.com)
