@@ -16,7 +16,7 @@ And I'm a Front-end developer.
 * ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 * ![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
 
-### My CV: https://pashkevichtania.github.io/Web/
+### My CV: https://pashkevichtania.github.io/CV/
 
 <!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PashkevichTania&show_icons=true&count_private=true&theme=tokyonight)
