@@ -5,8 +5,7 @@ I'am a Web Developer.
 ---------------------
 
 I’m а Front-end Developer with experience in React, Svelte and Vue development and web design. My goals are to create
-powerful and user-friendly web applications and to improve myself in this every day. I like to do what I’m interested in
-- to create something useful for people.
+powerful and user-friendly web applications and to improve myself in this every day. I like to do what I’m interested in creating something useful for people.
 
 * 🖥️ See my portfolio at [CV](http://pashkevichtania.github.io/CV/)
 * ✉️ You can contact me at [pashkevichtania2004@gmail.com](mailto:pashkevichtania2004@gmail.com)
